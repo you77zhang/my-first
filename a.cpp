@@ -6,7 +6,11 @@ typedef pair<int,int> PII;
 const int N=1e6+10;
 
 void solve(){
-    
+    int a=0;
+    int n=0;
+    for(int i=1;i<=n;++i){
+        cout << i << '\n';
+    }
 }
 
 int main()
